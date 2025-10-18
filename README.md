@@ -1,2 +1,2 @@
-# Personal-Website-HTML
+# Personal-Website
 This is my first attempt at creating a personal website using HTML an CSS. On this website, you can learn about my hobbies, education, and personal projects. The site has three pages: Home, Contact, and CV. On the Home page, you’ll find a photo of me along with details like my age and hobbies. On the CV page, you can see my education, personal projects, and social links. Finally, on the Contact page, you can email me via the form, or find my phone number, email, and address listed right below it
